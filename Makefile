@@ -1,4 +1,4 @@
 all: zip
 
 zip:
-	7z a -tzip Fling-PVP.zip .
+	zip Fling-PVP.zip pack.mcmeta pack.png assets/
